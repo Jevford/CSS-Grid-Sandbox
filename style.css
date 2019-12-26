@@ -200,6 +200,10 @@ footer {
         'top-box-b';
     }
 
+    body {
+        margin: auto;
+        align-items: center;
+    }
 }
 
 
